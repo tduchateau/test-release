@@ -14,7 +14,7 @@
     
     <scm>
         <url>https://github.com/tduchateau/test-release</url>
-        <connection>scm:git:git://github.com/tduchateau/test-release.git</connection>
+        <connection>scm:git:git@github.com:tduchateau/test-release.git</connection>
         <developerConnection>scm:git:git@github.com:tduchateau/test-release.git</developerConnection>
     </scm>
 </project>
