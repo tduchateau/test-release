@@ -11,10 +11,10 @@
         <module>module2</module>
     </modules>
 
-    
     <scm>
-        <url>https://github.com/tduchateau/test-release</url>
-        <connection>scm:git:git@github.com:tduchateau/test-release.git</connection>
-        <developerConnection>scm:git:git@github.com:tduchateau/test-release.git</developerConnection>
-    </scm>
+               <connection>scm:git:https://github.com/tduchateau/test-release.git</connection>
+               <developerConnection>scm:git:https://github.com/jenkinsci/tduchateau/test-release.git</developerConnection>
+               <url>https://github.com/tduchateau/test-release</url>
+        </scm>
+        
 </project>
